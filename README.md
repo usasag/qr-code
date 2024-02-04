@@ -20,12 +20,12 @@ A simple QR-Code component website! Built by me, V.Bispo, as the first project t
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [usasag.github.io/qr-code](https://usasag.github.io/qr-code)
 
 ## My process
 
@@ -38,7 +38,7 @@ At first, i wanted to use TailwindCSS, but then resorted to using pure CSS and H
 - Flexbox
 - CSS Grid
 - Terraform (for cloud hosting)
-- Mobile-first workflow
+- Responsive workflow
 
 ### What I learned
 
